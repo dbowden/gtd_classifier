@@ -1,0 +1,3 @@
+# Conclusion
+
+While this modeling approach may be of use to scholars or analysts aiming to understand terrorist organizations, it is crucial to note that it is far from perfect. The technique is essentially a sophisticated parsing of circumstantial evidence that yields high, but not perfect accuracy. Furthermore, there is no guarantee that it will be similarly accurate in other contexts. I do not recommend that it be used to establish culpability in legal or military settings.
